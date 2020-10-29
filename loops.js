@@ -20,5 +20,5 @@ function whileLoop(num) {
     console.log(num);
     i-- 
     }
-console.log('done');
+return('done');
 }
